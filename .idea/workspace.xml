@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be733945-1c6b-4a36-bba3-da4c840ed267" name="Default" comment="" />
+    <list default="true" id="be733945-1c6b-4a36-bba3-da4c840ed267" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/components/App.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App.spec.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,11 +64,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="App.spec.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="App.spec.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/App.spec.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="24" lean-forward="true" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+            <state relative-caret-position="247">
+              <caret line="13" column="51" lean-forward="true" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Nav.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/components/Nav.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CreateJob.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/CreateJob.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="25" lean-forward="true" selection-start-column="25" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -93,6 +116,8 @@
         <option value="$PROJECT_DIR$/src/components/ManageJobs.js" />
         <option value="$PROJECT_DIR$/src/components/App.js" />
         <option value="$PROJECT_DIR$/src/components/App.spec.js" />
+        <option value="$PROJECT_DIR$/src/components/CreateJob.js" />
+        <option value="$PROJECT_DIR$/src/components/Nav.js" />
       </list>
     </option>
   </component>
@@ -186,12 +211,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527280496248</updated>
-      <workItem from="1527280497439" duration="2789000" />
+      <workItem from="1527280497439" duration="3170000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2789000" />
+    <option name="totallyTimeSpent" value="3170000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="19" y="43" width="1400" height="767" extended-state="0" />
@@ -287,8 +312,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/App.spec.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="24" lean-forward="true" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+        <state relative-caret-position="247">
+          <caret line="13" column="51" lean-forward="true" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/CreateJob.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" lean-forward="true" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Nav.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
         </state>
       </provider>
     </entry>

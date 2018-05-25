@@ -11,7 +11,7 @@ describe("Test for navigation", () => {
     })
 
     it("User can hit Create Job button to change screen", () => {
-        Simulate()
+        Simulate.click(getByTestId('createjobnav'))
         expect(getByTestId('createjob').textContent).toEqual("Create a Job")
     })
 })
