@@ -1,10 +1,15 @@
 import React from 'react';
-import ManageJobs from './ManageJobs';
+import Store from '../store/store';
+import ViewContainer from './ViewContainer';
+import Nav from './Nav';
 
 const App = () => (
-    <div>
-        <ManageJobs />
-    </div>
+    <Store.Provider>
+        <div>
+            <Nav/>
+            <ViewContainer />
+        </div>
+    </Store.Provider>
 );
 
 export default App;
